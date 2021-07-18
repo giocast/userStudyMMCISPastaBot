@@ -415,7 +415,7 @@ def main() -> None:
     #print(len(matrixRecomm))
     
     # Create the Updater and pass it the bot's token.
-    updater = Updater("1867453248:AAF_1-hJUc709RP6Pmi5PycSZm_OxmMqV2g")
+    updater = Updater("ttggggg")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
