@@ -5,9 +5,11 @@ User study for Distributed System Course Project - Bachelor Degree at Politecnic
 Somministrate 3 different chatbots to users and retrieve ratings for user satisfaction. 
 
 
-Case A:                 Case B:                        Case C:
-Interaction -> Text     Interaction -> Text+Visual     Interaction -> Text+Visual
-Processing -> Text      Processing -> Visual           Processing -> Text
+Case A:  Interaction -> Text          Processing -> Text          
+Case B:  Interaction -> Text+Visual   Processing -> Visual                   
+Case C:  Interaction -> Text+Visual   Processing -> Text
+          
+                 
 
 CASE A
 Textual conversation between user and chatbot. The chatbot asks questions in order to acquire user preferences. COnversation duration varies with user's mood. Preferences (ingr. liked, disliked or allergies) are used to filter the menu and recommend the perfect dish based on the tastes (the first element of the produced list of dishes). 
