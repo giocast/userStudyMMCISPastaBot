@@ -5,9 +5,9 @@ User study for Distributed System Course Project - Bachelor Degree at Politecnic
 Somministrate 3 different chatbots to users and retrieve ratings for user satisfaction. 
 
 
-Case A:  Interaction -> Text          Processing -> Text          
-Case B:  Interaction -> Text+Visual   Processing -> Visual                   
-Case C:  Interaction -> Text+Visual   Processing -> Text
+Case A:________Interaction -> Text__________Processing -> Text          
+Case B:________Interaction -> Text+Visual___Processing -> Visual                   
+Case C:________Interaction -> Text+Visual___Processing -> Text
           
                  
 
