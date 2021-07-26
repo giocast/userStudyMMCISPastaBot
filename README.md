@@ -1,5 +1,6 @@
 # userStudyMMCISPastaBot
 User study for Distributed System Course Project - Bachelor Degree at Politecnico di Bari
+(https://github.com/giocast/DistributedSystem-Project-PastaBot)
 
 Somministrate 3 different chatbots to users and retrieve ratings for user satisfaction. 
 
