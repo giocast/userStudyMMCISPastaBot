@@ -25,7 +25,7 @@ IMAGE-ORIENTED RECOMMENDATION STEPS:
 4) Recommendation includes the name and image of the selected dish but also the ingredients and a friendly human-like recommendation.
 
 
-# USER STUDY
+# User study
 
 The user study consists of somministrating 3 different chatbots to users and retrieve ratings for user satisfaction. 
 
