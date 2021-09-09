@@ -1,6 +1,5 @@
 # userStudyMMCISPastaBot
 User study for Distributed System Course Project - Master Course of Software Engineering at Politecnico di Bari
-(https://github.com/giocast/DistributedSystem-Project-PastaBot)
 
 The aim of this project is producing a multimodal Pasta recommendation system (Pasta MMCIS).
 After an intense research process, a Telegram bot has been developed using Telegram Chatbot python library.
