@@ -52,3 +52,10 @@ Conversation with text which starts with the pasta dish of the day. If the user 
 
 
 For each conversation a user rating is stored into a text file. It will be possible to identify which case is better in order to satisfy users' needs. 
+
+# How to run
+
+Create a bot directory and enter it
+Run command -> pipenv install python-telegram-bot
+Run command -> pipenv run python finalPastaBot.py
+Search for the bot into Telegram app and start the conversation
